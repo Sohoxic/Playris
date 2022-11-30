@@ -1,4 +1,4 @@
-# <img src="https://github.com/Sohoxic/Utube-Cloneee/blob/main/img/utube-cloneee.png">   Playris :
+#   Playris :
 #### This is my attempt in building my own video streaming platform like youtube but free from adds as I know too annoyed by them, also didn't want to spend a penny on premium subscription.
 # Getting Started with Create React App
 
